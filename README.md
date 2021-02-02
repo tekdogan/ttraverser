@@ -10,6 +10,8 @@ This project comes handy in locating the extreme sized files in your computer th
 
 Just specify the location where you want to do searching and specify a threshold to compare file sizes. If a file have a size greater than that threshold, then its path and name will be printed by program.
 
+![plot](./imgs/ttraverser_ss.png)
+
 ## Usage
 - Download the files.
 - Compile the source code and create your executable file.
