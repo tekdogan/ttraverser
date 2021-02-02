@@ -11,10 +11,13 @@ This project comes handy in locating the extreme sized files in your computer th
 Just specify the location where you want to do searching and specify a threshold to compare file sizes. If a file have a size greater than that threshold, then its path and name will be printed by program.
 
 ## Usage
+- Download the files.
+- Compile the source code and create your executable file.
 - Right click and edit the bat file.
 - Arrange the parameters according to your needence.
 
 ### Parameters in batch file
+:warning: Note that this tutorial assumes your working environment is Windows. Do the necessary changes according to your OS.
 ```bash
 ttraverser.exe C:/Users 268435456 4
 pause
