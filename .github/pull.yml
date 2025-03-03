@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: master
-    upstream: tekdogan:master
+  - base: main
+    upstream: tekdogan:main
     mergeMethod: hardreset
